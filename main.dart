@@ -552,7 +552,7 @@ class _AnaSayfaState extends State<AnaSayfa> {
           '$value',
           style: TextStyle(
             color: Colors.white,
-            fontSize: 25,
+            fontSize: 23,
             fontWeight: FontWeight.bold,
           ),
         ),
@@ -561,7 +561,7 @@ class _AnaSayfaState extends State<AnaSayfa> {
           unit,
           style: TextStyle(
             color: Colors.white70,
-            fontSize: 23,
+            fontSize: 20,
             fontWeight: FontWeight.w400,
           ),
         ),
